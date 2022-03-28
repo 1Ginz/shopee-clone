@@ -97,7 +97,7 @@
 .header__navbar-user-menu{
     position: absolute;
     right: 0;
-    top: calc(110% +1px);
+    top: calc(110% + 1px);
     background-color: var(--white-color);
     z-index: 1;
     padding-left: 0;
