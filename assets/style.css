@@ -353,10 +353,24 @@
     border: 1px solid #d8d8d8;
     border-radius: 2px;
     outline: none;
+    margin-bottom: 8px;
 }
+
+.invalid{
+    color: red;
+}
+.invalid input{
+    border-color: red;
+}
+
 .auth-form__input:focus{
     border-color: #888;
 }
+.form-message{
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+
 .auth-form__aside{
     margin-top: 18px;
 }

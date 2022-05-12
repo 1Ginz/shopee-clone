@@ -70,5 +70,3 @@ modalBody.style.display = "none";
 
 
 
-console.log(document.querySelector(".modal__body .auth-form .switch-btn-register").innerHTML)
-
